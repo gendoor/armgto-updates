@@ -2,5 +2,5 @@
 <item>
     <version>1.0.9174.24647</version>
     <url>https://raw.githubusercontent.com/gendoor/armgto-updates/master/releases/ocr/updates.zip</url>
-    <mandatory minVersion="1.0.9166.21487">true</mandatory>
+    <mandatory minVersion="1.0.9166.24804">true</mandatory>
 </item>
