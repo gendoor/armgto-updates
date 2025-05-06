@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.9256.32155</version>
+    <version>1.0.9257.26791</version>
     <url>https://raw.githubusercontent.com/gendoor/armgto-updates/master/releases/ocr/updates.zip</url>
     <mandatory minVersion="1.0.9256.32155">true</mandatory>
 </item>
