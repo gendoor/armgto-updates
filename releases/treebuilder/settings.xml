@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.9467.36601</version>
+    <version>1.0.9468.24522</version>
     <url>https://raw.githubusercontent.com/gendoor/armgto-updates/master/releases/treebuilder/updates.zip</url>
-    <mandatory minVersion="1.0.9467.36601">true</mandatory>
+    <mandatory minVersion="1.0.9468.24522">true</mandatory>
 </item>
